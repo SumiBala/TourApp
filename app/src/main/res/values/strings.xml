@@ -1,0 +1,364 @@
+<resources>
+    <string name="app_name">Muscat</string>
+    <string name="content_description">Tour Picture</string>
+    <string name="category_attraction">Attraction</string>
+    <string name="category_museum">Museum</string>
+    <string name="category_bpark">Beaches And Parks</string>
+    <string name="category_restaurant">Restaurant</string>
+    <!--Details of Attraction.-->
+    <string name="attraction1">Al Alam Palace</string>
+    <string name="attraction2">Bhimma Sinkhole</string>
+    <string name="attraction3">Mutrah Corniche</string>
+    <string name="attraction4">Mutrah Souq</string>
+    <string name="attraction5">Sultan Qaboos Grand Mosque</string>
+    <string name="attraction6">Wahiba Sand</string>
+    <string name="alalam_Info">
+        With its funnel-like gold and blue pillars and lone flagpole extending like an antenna from its flat roof, Al Alam Palace (Sultan\'s Palace)
+        is one of Oman’s most striking examples of contemporary Islamic architecture. The palace, built in 1972, is set between the Mirani and
+        Jalali forts along the coast of Muscat’s Old Town and is one of six royal residences belonging to His Majesty Sultan Qaboos.\n
+        Over the years, the ceremonial palace has received a number of important visitors, including Queen Elizabeth of England and
+        Queen Beatrix of the Netherlands, as well as hosting a number of official functions and ceremonies. Although the palatial buildings
+        are closed to the public, visitors can still enjoy views of Imam Sultan bin Ahmed’s masterpiece from the surrounding palace gardens or
+        the waterfront of the nearby Muscat Port.
+    </string>
+    <string name="mosque_Info">
+        Muscat\’s most magnificent religious building and the only mosque in Oman to open its doors to tourists, the Sultan Qaboos Grand Mosque is one
+        of the city\’s most popular attractions. Built in the Ghubrah suburb back in 2001, the landmark building is an impressive feat of contemporary
+        Islamic architecture and one of the largest mosques in the Gulf, with the 40,000-square-meter grounds able to accommodate an incredible 20,000
+        worshippers at one time.
+        \n
+        Set within a vast walled compound, overlooked by 5 towering minarets, the Grand Mosque encompasses two prayer halls encircled by a courtyard,
+        gardens and a series of water features. Incorporating elements of Omani, Persian and Egyptian design, the complex is sculpted entirely from
+        pristine white Indian sandstone and includes a Ladies’ Prayer Hall, library and meeting rooms. The crowning glory of the mosque is the lavish
+        central prayer hall, a gleaming mass of white and grey marble adorned with elaborate tile work and featuring a 14-meter tall Swarovski crystal
+        chandelier and the second largest carpet in the world – a 70-meter-long, hand-woven Iranian rug. Beneath the dramatic 50-meter high gold,
+        latticed dome, there is space for up to 6,600 prayer mats.
+        \n
+        While the mosque welcomes visitors, non-Muslims may only enter the main prayer hall during designated times and both men and women entering the
+        mosque are required to follow the dress code – arms, legs and hair (women only) must be covered.
+    </string>
+    <string name="souq_Info">
+        One of the oldest traditional souks (marketplaces) in the Arab world, the Muttrah souk has a history stretching back over 200 years and has earned
+        acclaim throughout Oman for its varied array of both local and imported goods – thanks in large part to its strategic position at the mouth of Muscat
+        Harbor. Known locally as the Al Dhalam souk, which translates as \‘Darkness\’ in Arabic, the souk takes its name from the network of narrow streets
+        that run between Khour Bimba and the Al Lawatiya Mosque, where the stalls are so cramped together the sunlight can\’t make it through the cracks.
+        \n
+        Navigating the dimly lit stalls and maze-like alleyways is all part of the experience and shopping in the souks is one of the top pastimes
+        for visitors to Oman.  Exploring the myriad of stalls reveals a host of local goods like Frankincense, perfumes and fresh spices, alongside
+        traditional handicrafts like Khanjers (Omani knives), Bedu jewelry and colorful hookah pipes. Pay a visit to the Gold Souk, where the honeycomb
+        of stalls are laden with gold and silver jewelry, tuck into some local street food, then put your haggling skills to the test as you scour the
+        markets for unique Omani souvenirs.
+    </string>
+    <string name="sand_Info">
+        Stretching over 125 miles (200 kilometers) from the Eastern Hajar Mountains to the Arabian Sea, the Wahiba Sands desert (Sharqiya Sands) is Oman\’s
+        adventure playground. Named after the nomadic Wahiba Bedouin tribes, the region is known for its amber-colored sands and towering sand dunes,
+        some standing up to 330 feet (100 meters) high.
+        \n\n<b>The Basics</b>\n\n
+        A desert safari is a must to experience Oman\’s natural wonders, whether its dune bashing in a 4x4, taking a sunset camel ride, or zipping
+        through the dunes on a sandboard or quad bike. Small-group or private tours leave from Muscat or Bidiyah, and typically include a picnic lunch
+        at a traditional desert camp, swimming at Wadi Bani Khalid, and a variety of optional activities.
+        \n\n<b>Things to Know Before You Go</b>\n\n
+        Heading off-road in the desert is only recommended as part of a guided tour with an experienced local guide.\n
+        It can get hot in the desert and there\’s little shade, so bring a hat, sunscreen, and plenty of water. A scarf to protect your face from the
+        sand is also recommended.
+        \nThere is no cellphone coverage or Wi-Fi in the area.
+        \n\n<b>How to Get There</b>\n\n
+        The Wahiba Sands desert is about a 3-hour drive from Muscat, off the Muscat-Sur Highway at Al-Mintirib. The most popular way to visit is as part
+        of a guided tour.
+        \n\n<b>When to Get There</b>\n\n
+        The best time to visit Wahiba Sands is during the winter months from October to April. During the summer (May to September), temperatures can
+        reach 104°F (40°C) or more.
+        \n\n<b>Wildlife of the Wahiba Sands</b>\n\n
+        Wahiba Sands is renowned for its unique desert ecosystem and surprisingly rich biodiversity. Some 180 native species of plants, as well as more
+        than 200 species of animals, can be found in the desert, including vipers, desert hares, sand foxes, and birds. The best times for wildlife
+        watching are at sunrise or sunset, but guides will often point out animal tracks as you trek through the desert.
+    </string>
+    <string name="sink_Info">
+         The Bimmah Sinkhole, located in Hawiyat Najm Park (مـتـنزه هـويـة نـجـم), literally meaning Meteor Fall Park in Arabic, is a sinkhole in the
+        Muscat governorate of Oman. You can get to the sinkhole in about 1.5 hours from Muscat, and despite being technically in Muscat governorate,
+        the sinkhole is actually very close to Al Sharqiyah region just off the high way to Sur, few kilometers before Tiwi. You can spend a couple of
+        minutes just taking pictures of this amazing sinkhole, or more than an hour swimming in the clear turquoise water, but either way you should
+        definitely stop here if you are heading to Al Sharqiyah governorate. We usually visit Bimmah Sinkhole on our way back from a trip to Wadi Shab
+        or Wadi Al Arbaeen.
+    </string>
+    <string name="corniche_Info">
+        Mutrah stretches along an attractive corniche of latticed buildings and mosques; it looks spectacular at sunset when the light casts shadows
+        across the serrated crescent of mountains, while pavements, lights and fountains invite an evening stroll or a bike ride.
+        \n
+        The initiative to relocate the industrial elements of the port and redevelop the dockside for tourism is well underway with the refurbishment
+        of the fish market complete. The port will provide a permanent home for Shabab Oman, the country\'s magnificent fully rigged training ship,
+        which is soon to be retired now that its replacement has been commissioned. In the meantime, the harbour is home to His Majesty\'s dhow,
+        visiting cruise ships and assorted naval vessels.
+    </string>
+    <!--Details of Museum.-->
+    <string name="museum1">Bait Al Zubair Museum</string>
+    <string name="museum2">Children Museum</string>
+    <string name="museum3">Museum of Illusions</string>
+    <string name="museum4">National Museum</string>
+    <string name="museum5">Oman Natural History Museum</string>
+    <string name="museum6">Sultans Armed Forces Museum</string>
+    <string name="zubair_Info">CDATA
+        Bait Al Zubair is a museum, located on Al Saidiya Street, Old Muscat, Oman.\n
+        The museum has an extensive collection of ancient weapons, including khanjar, household equipments,and costumes
+        (most of which derive from the owner\'s private collection). Outside the museum is a full-scale Omani village and souk.
+        \n\n<b>Visiting Hours</b>\n\n
+            Sat To Thu - 9:30 AM - 6:00 PM
+    </string>
+    <string name="national_Info">
+        The National Museum - Sultanate of Oman, established in 2013, is the Sultanate\'s flagship cultural institution,
+        showcasing the nation\'s heritage from the earliest human settlement in the Oman Peninsula some two million years ago through to the present day.
+        As a national institution with global outreach, the museum is dedicated to ensuring Oman\'s cultural heritage is understood and appreciated not only
+        within the Sultanate, but also internationally. Further, it aims to provide opportunities for cultural expression,
+        innovation and the transfer of traditional skills and knowledge from one generation to the next.
+        The museum is located in the heart of Muscat in a magnificent purpose-designed building. The total area of the building is 13,700 square metres
+        (147,000 sq ft), including 4,000 square metres (43,000 sq ft) allocated for 14 permanent galleries - The Land and the People Gallery,
+        Maritime History Gallery, Arms and Armour Gallery, Aflaj Gallery, Currency Gallery, Prehistory and Ancient History Galleries,
+        Splendours of Islam Gallery, Oman and the World Gallery, Intangible Heritage Gallery and Renaissance Gallery, among others.
+        A further 400 square metres (4,300 sq ft) are allocated for temporary exhibitions. The National Museum houses 5466 objects and
+        offers 43 digital immersive experiences, a fully equipped Learning Centre, state-of-the-art conservation facilities, a UHD cinema and
+        discovery areas for children. It features an integrated infrastructure for special needs and is the first museum in the Middle East to adopt
+        Arabic Braille script for the visually impaired. It also houses the region\'s first open-plan museum storage concept, where visitors can learn
+        about the various processes that artefacts go through before they are put on display.
+        \n\n<b>Visiting Hours</b>\n\n
+            Fri - 2:00 PM - 6:00 PM\n
+            Sat to Thu - 10:00 AM - 5:00 PM
+
+    </string>
+    <string name="armed_Info">
+        The Sultan\'s Armed Forces Museum is a military history museum, located in the 150-year-old Bait Al Falaj Fort, once the headquarters for
+        Sultan Said bin Sultan\'s Armed Forces, located on Al Mujamma Street, in the Ruwi area near Muscat, Oman. It was graciously inaugurated in 1988
+        by His Majesty Sultan Qaboos, the supreme commander of the Armed Forces.\n
+        The museum has an extensive collection related to Oman\'s military history, national conflicts; with displays of weapons (such as guns and cannons),
+        service uniforms, an external display of military vehicles, military music instruments, medals and even an jet aircraft ejector seat and a parachute
+        on display.
+        \n\n<b>Visiting Hours</b>\n\n
+            Sun To Thu - 7:30 AM - 1:30 PM\n
+            Sat - 9:00 AM - 11:45 AM
+    </string>
+    <string name="illusion_Info">
+    The Museum of Illusion in Oman brings you a space suitable both for social and entertaining tours into the world of illusions which has delighted
+    all generations. It’s a perfect place for new experiences and fun with friends and family and it’s unique in this part of the Arab World.
+    Enter the fascinating world of illusion which will trick your confidence in senses, but amaze you by doing it.
+    \n\n<b>Visiting Hours</b>\n\n
+           Thu To Fri - 10:00 AM - 11:00 PM\n
+           Sat To Wed - 10:00 AM - 10:00 PM
+</string>
+    <string name="natural_Info">
+        The Natural History Museum of Oman is a natural history museum, located at the Ministry of Heritage and Culture complex, Al Khuwair,
+        opposite the Zawawi Mosque in Muscat, Oman.\n
+        The museum opened on 20 December 1985, and has detailed coverage of Oman\'s flora and fauna, with displays on indigenous mammals, insects,
+        and birds and botanical gardens. One of the highlights of the museum is the whale hall: it houses the huge skeleton of a sperm whale,
+        which was washed up on the Omani coastline in the 1986.The museum contains marine and animal fossils and ancient mammals such as monkeys and
+        elephants primitive, teeth Deinotherium and Gomphotherium, and stuffed animals: Arabian leopard. Caracal. Arabian Oryx. Arabian wolf. Arab Red fox.
+        Ghazal skeleton Arabic. Ibex Arabic. Flamengo. Birds. Crow. Owl. Reptiles. Snakes\' lizards. Snails and shells.
+        \n\n<b>Visiting Hours</b>\n\n
+           Sun To Thu - 9:30 AM - 1:30 PM\n
+           Sat - 9:00 AM - 1:00 PM
+    </string>
+    <string name="children_Info">
+        The Oman Children\'s Museum is a children\'s science museum, located near Qurum Nature Park off Sultan Qaboos Street in a white-domed building
+        in Muscat, Oman.\n
+        The museum was established by the Ministry of National Heritage and Culture and opened on November 17, 1990 by Sultan Qaboos bin Said al Said
+        on the 20th National Day celebration in Oman. The museum has 45 exhibits and two demonstrations and comprises 10,000 square feet (930 m2).
+        It was the first science museum in Oman and is visited by around 50,000 visitors annually. The museum is currently run by a former school teacher,
+        Samirah Ahmed al Raisi, who has run the museum for over six years.\n
+        The museum addresses the scientific ways of human life and the exhibition section is divided into three parts;
+        The Human life, Physics and observation which investigates the progression of science through the ages.\n
+        The museum has many hands-on displays. These include experiences of a fake electric shock, trigger a lightning bolt, launching a hot air balloon,
+        photographing your own shadow, and sending message through a whisper dish. There is also a display named "Eye Spy", which is series of perception panels
+        with illusions designed to offer some insight into how your eyes and brain see things differently.
+       \n\n<b>Visiting Hours</b>\n\n
+           Mon To Wed - 8:00 AM - 5:00 PM\n
+           Thu To Sun - 8:00 AM - 1:30 PM
+    </string>
+    <!--Details of Beaches and Parks.-->
+    <string name="beach1">Al Sifa Beach</string>
+    <string name="beach2">Pebble Beach</string>
+    <string name="beach3">Qantab Beach</string>
+    <string name="park1">Kalbouh Park</string>
+    <string name="park2">Qurum Park</string>
+    <string name="park3">Riyam Park</string>
+
+    <string name="sifa_Info">
+        Life is all about balance at Jebel Sifah. Yacht owners are assured a safe haven for
+        their boats at the sophisticated marina, which also acts as a chic hub for the wider
+        community, and golfers will be rewarded with breathtaking views when they tee off at
+        the nine-hole Harradine golf course. Some of Oman\’s most exclusive hotels and resorts
+        can be found here, welcoming guests from around the world, while those looking for a home,
+        weekend getaway or solid investment will find attractive freehold residential opportunities
+        in the community\’s villas and apartment offerings. The surrounding landscape is a dream for
+        the active and adventurous, as well as those in search of tranquillity.
+        \nThe beach at As Sifah is ideal for desert-lovers who don\'t want to forgo the sea.
+        Its fine, deep golden sand makes it difficult to stroll along the beach.
+        Since the beach at the village of As Sifah is not developed for tourists and there are
+        few opportunities to buy food and drinks, you need to bring your own. Its open aspect
+        without windbreaks makes it good for various types of water sports, including surfing,
+        kite-surfing, sailing or windsurfing, provided you bring your own equipment.\n\n
+        How to get the camping spots : \n\n
+        Camping spots on Sifah beach are easy to find. Head towards Yiti and follow the signs for
+        Jebel Sifah. Enter the complex and go right at the third roundabout. Drive past the
+        apartment buildings and the beach will be on your left. Choose the most suitable looking site.
+        \n\nGPS of camping spot:   N23° 23’ 47.87” E58° 48’ 12.737”
+    </string>
+    <string name="pebble_Info">
+        Oman Pebble beach is on Muscat - Sur Coastal road and very close to Wadi Shab another
+        beautiful tourist location. This beach is full of different shapes and colors of pebbles.
+        The sea looks fantastic with two to three colors. The crystal clear waters would be ideal
+        for swimming and snorkeling.\n\n
+        How to get there :\n\n
+        From Muscat, follow Route 17 all the way to Sur, about 150 KM as if you were visiting
+        Wadi Shab. Exit soon after the Wadi Shab Resort and take a u turn .
+        Right goes to Wadi Shab and left ( You will be back to Coastal road ) goes to pebbles beach
+        The beach is almost behind the Wadi Shab resort.\n\n
+        GPS : N22° 50’ 40” E59°  14’ 32”
+    </string>
+    <string name="qantab_Info">
+        At only 15km from the centre of Muscat, the quaint village of Qantab can be reached in
+        about 25 minutes on a good day with little traffic. Directions are well signposted and as
+        you approach, the road climbs a hill. When u reached the crest you will get a fantastic
+        view of the village.\n
+        Set amid brown, craggy hills that taper down into the sea, the village itself is quite
+        small, dotted with quaint houses that face out to the sea and give their occupants
+        uninterrupted views of the water.\n
+        As the sun sets Qantab Beach pulses with life. This is when lots of children come
+        running down to play and the locals meet up to chat by the water. The numerous fishermen
+        with their fishing boats are a particular highlight. Watching them go about their handiwork
+        adds an extra something to the atmosphere.\n\n
+        How to get there :\n\n
+        Take An Nuzhah Street through Al Wadi Al Kabir in the direction of the Al Bustan Palace.
+        Take the exit to Qantab road before you reach the hotel. Stay on this road for 4km and then
+        take a left towards the village. The route to Qantab is well signposted.\n\n
+        GPS : N23° 33’ 43” E58° 37’ 45
+    </string>
+    <string name="kalbou_Info">
+        Kalbuh Bay Park juts into a sea that\'s boiling with sardines.
+        Located at the end of the Corniche, it makes a good pausing place on a hike between
+        Mutrah and Old Muscat. Swimming on the public beach is possible for those not afraid of
+        attracting an audience.\n
+        Kalbuh beach is located near the Kalbuh Park in Muttrah. It is one of the best places to go
+        swimming in Muscat. They even offer free swimming classes. With a great view of the park,
+        the surrounding mountain and the turquoise waters, Kalbuh Beach is one of the must-visit
+        beaches in Muscat.        \n\n
+        Opening Hours : \n
+        Sun To Sat : 9:00 AM - 10:00 PM
+    </string>
+    <string name="qurum_Info">
+        You just cannot have enough of Qurum Natural Park, the largest park in Oman covering an
+        area of over 17,00,000 sq metres, in one visit. Located in the heart of Muscat,
+        this park has a huge artificial lake, numerous old trees, manicured shrubs and green lawns,
+        all of which provide the much need solace away from the hustle and bustle of the city.
+        The Marah Land amusement park is located adjacent to this park.       \n\n
+        Opening Hours : \n
+        Sun To Thu : 8:00 AM - 8:00 PM
+        Fri, Sat : 9:00 AM - 12:00 PM
+    </string>
+    <string name="riyam_Info">
+        A visit to Riyam Park, located in Mutrah, is part of the fun when you visit the Mutrah
+        corniche or Old Mutrah Souq, both of which are a big draw for tourists. This is also the
+        most attractive park for children because of the rides, games, and playgrounds. Spread over
+        100,000 sq. metres, it also houses the iconic, giant ornamental incense burner installed atop
+        a hill which offers a splendid view of the nearby harbour. \n\n
+         Opening Hours : \n
+        Sun To Thu : 4:00 PM - 11:00 PM
+        Fri, Sat : 9:00 AM - 12:00 PM
+    </string>
+    <!--Details of Restaurants.-->
+    <string name="restaurant1">Ananthapuri Restaurant</string>
+    <string name="restaurant2">Golden Oryx Restaurant</string>
+    <string name="restaurant3">Kargeen Restaurant</string>
+    <string name="restaurant4">Oman Express Restaurant</string>
+    <string name="restaurant5">The Cave</string>
+    <string name="restaurant6">The Jungle Restaurant</string>
+
+    <string name="res1_Info">
+        Ananthapuri restaurant, located near Darsait signal,Opposite muscat muncipality,part of
+        Al Shorouq group of companies commenced its exciting journey on 07th december 2008.\n
+        Ananthapuri restaurant has earned a unique position in Muscat – a place that is synonymous
+        to Taste, Tradition, Ambience and Agility in Service. It is a theme restaurant who serves
+        authentic South Indian dishes along with variety of options in North Indian and Chinese
+        cuisine.\n\n
+        Opening Hours :\n\n
+        Sun To Thu, Sat : 12:00 – 3:00 PM, 7:00 – 11:00 PM \n
+        Fri : 1:00 - 3:00 PM, 7:00 - 11:30 PM \n\n
+        Contact :\n\n
+        Ananthapuri Restaurant, Opposite Muscat Muncipality\n
+        Al Shorouq Hotel Apartment Building\n
+        Post box: 321 | Postal code: 111\n
+        Darsait | Sultanate of Oman\n
+        Phone: 24706226 | Mobile: +968 97081177
+    </string>
+    <string name="res2_Info">
+        The Golden Oryx, Muscat\’s finest chinese restaurant, offers a rich blend of szechuan,
+        cantonese, thai, mongolian delicacies, in the most elegant surroundings.\n
+        In more than twenty-nine years of its existence, the Golden Oryx has endeared itself
+        to a cross- section of affluent Omanis, Asian and European expatriates.
+        Its prime location in Ruwi with its rich, but subdued ethnic oriental décor,
+        and the quaint woodwork which characterises the interior of this Restaurant,
+        captures the magic of the far east. The tables, some of them large enough to seat
+        a group of 12, are placed far apart, affording diners a fair degree of privacy.
+        Private banquet rooms are available on the mezzanine floor for parties, from small
+        groups of ten to lavish banquets for 50. Huge wall mural with pictures of the oryx link the
+        restaurant inextricably with Oman. The ceiling is adorned with floral hand painted ceramic tiles.\n\n
+        Opening Hours :\n\n
+        Sun To Thu, Sat : 12:00 – 3:00 PM, 7:00 – 12:00 PM \n
+        Fri : 1:00 - 3:30 PM, 7:00 - 12:00 PM \n\n
+        Contact :\n\n
+        Golden Oryx Restaurant\n
+        Al Burj St, Muscat\n
+        Phone : 24702266
+    </string>
+    <string name="res3_Info">
+        Kargeen is an old Omani word for \‘little wooden cottage\’. Established in 1997 by a
+        dynamic couple – Mr. Jalil Abdullah Hamza Al Asfoor and Mrs. Hana Haffadh – at Madinat Qaboos,
+        Kargeen has been making quality Arabic food accessible to all. With its exquisite interiors
+        and carefully planned cuisines, Kargeen takes you back into the vintage era of Omani culture and tradition.
+        Kargeen is a true example of old-world charm meeting the modern-day dining experience.
+        Done up in wood, wrought iron and decorated with bright rugs,
+        the restaurant blends Eastern style with classical Western culture with ease.\n\n
+        Opening Hours :\n\n
+        Sun To Thu, Sat : 8:00 AM - 12:00 AM \n
+        Fri : 12:00 PM - 12:00 AM \n\n
+        Contact :\n\n
+        Kargeen Restaurant\nAl Bashair St,\n Muscat\n Mobile : +968 99253351
+    </string>
+    <string name="res4_Info">
+        One of the best restaurants in Muscat for south Indian food.It is Vegetarian restaurant.\n\n
+        Opening Hours :\n\n
+        Sun To Sat : 7:00 AM – 3:00 PM, 5:30 – 11:00 PM \n\n
+        Contact :\n\n
+        Oman Express Restaurant\n
+        4359 Way, Muscat\n
+        Phone : 24831329
+    </string>
+    <string name="res5_Info">
+        This cave-like complex of seven different restaurants includes Al Manjur,
+        an Omani restaurant with shuwa (slow-cooked, marinated meat dishes, OR8) on the menu.
+        Smart-casual dress is expected in this Aladdin\'s cave of a restaurant.
+        If the slightly austere atmosphere doesn\'t appeal, opt for Arab-style dining on the terrace
+        upstairs with expansive views over the sparkling lights of Ruwi.\n\n
+
+        Opening Hours :\n\n
+        Sun To Fri : 11:00 AM - 3:30 PM, 7:00 PM - 1:00 AM \n
+        Sat : 1:00 PM - 3:30 PM, 7:00 PM - 1:00 AM \n\n
+        Contact :\n\n
+        The Cave,\n1952 way, Darsyt Park,\n Darsyt, Muscat,\n Darsyt/Muscat 112\n Mobile : +968 99019805
+    </string>
+    <string name="res6_Info">
+        Located in the beautiful city of Muscat, Oman, The Jungle is a novel casual restaurant
+        created along the tropical rainforest theme amidst lush foliage. The location and the
+        ambience of the restaurant complement the most to its unique venue. The restaurant offers
+        a unique opportunity to experience the natural elements atypical of a rainforest- rain,
+        thunder and lightning along with the sounds of a roaring dinosaur, chirping birds and other
+        animals as you walk through it.\n\n
+        Opening Hours :\n\n
+        Sun To Thu : 12:00 AM - 3:00 PM, 7:00 PM - 10:30 AM \n
+        Fri, Sat : 12:00 PM - 3:30 PM, 7:00 PM - 11:00 AM \n\n
+        Contact :\n\n
+        The Jungle Restaurant\n
+        P.O.BOX 54,\n
+        P.C. 100, Muscat,\n
+        Sultanate Of Oman \n
+        Mobile : +968 95690658
+    </string>
+
+</resources>
